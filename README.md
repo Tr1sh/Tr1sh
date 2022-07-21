@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Meet Tr1sh"> 
+### <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" alt="Meet Tr1sh"> 
 
 ### Hello, Am PATRICIA NABISUBI
 
