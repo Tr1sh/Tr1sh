@@ -2,10 +2,11 @@
 
 ### Hello, Am PATRICIA NABISUBI
 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" height="30px" align="left" alt="javacript">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" height="30px" align="left" alt="php">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" height="30px" align="left" alt="php">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" height="30px" align="left" alt="php">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" height="30px" align="left" alt="bash">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" height="30px" align="left" alt="R">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" height="30px" align="left" alt="github">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" height="30px" align="left" alt="twitter">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" height="30px" align="left" alt="python">
 
 <br/><br/>
 
